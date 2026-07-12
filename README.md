@@ -1,0 +1,2 @@
+# Indian-Budget-Analysis-1947-2026-SQL-Data-Analysis-Project
+This project analyzes India's Union Budget from 1947 to 2026  using MySQL. The objective is to explore historical budget trends, identify spending patterns, compare yearly growth, and answer business-oriented analytical questions using SQL.  The project demonstrates both fundamental and intermediate SQL concepts commonly used in data analysis..
